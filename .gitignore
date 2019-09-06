@@ -1,0 +1,6 @@
+/.idea/
+/job-one/target/
+/job-two/target/
+/job-one/job-one.iml
+/zookeeper-lock.iml
+/job-two/job-two.iml
